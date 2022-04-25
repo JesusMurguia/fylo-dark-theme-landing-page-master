@@ -429,6 +429,7 @@ footer img {
 		background: url(./images/bg-curvy-desktop.svg), var(--dark-blue-intro-email-signup-background);
 		background-repeat: no-repeat;
 		background-position: bottom;
+		background-size: contain;
 		padding-bottom: 15rem;
 	}
 	#intro img {
